@@ -25,6 +25,16 @@ The platform provides interview questions, timer-based answering, performance tr
 ---
 
 ## Tech Stack
+## Project Preview
+
+### Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
+
+### Performance Preview
+
+![Performance](performance-preview.png)
+
 
 ### Frontend
 - React.js
